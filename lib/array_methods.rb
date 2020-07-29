@@ -5,11 +5,7 @@ def using_include(array, element1)
   
 end
 
-def using_include(array, element2)
-  
-  element2= array.include? ("Tardis")
-  
-end
+
 
 
 def using_sort(array)
